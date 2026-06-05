@@ -1,52 +1,100 @@
-# My Certifications & Achievements
+# 📑 Professional Certifications & Industrial Experience Portfolio
 
-Welcome to my central repository for professional certifications, training completions, and internship accomplishments. This repository serves as a verified archive of my technical skills, continuous learning, and academic milestones.
-
----
-
-## 📋 Table of Contents
-- [Certifications & Training](#-certifications--training)
-- [Internships & Industrial Experience](#-internships--industrial-experience)
-- [How to Verify](#-how-to-verify)
+Welcome to my centralized credential repository. This space acts as a verified archive of my academic achievements, industry internships, technical trainings, and hackathon participations.
 
 ---
 
-## 🏅 Certifications & Training
+## 📁 Repository Directory Structure
 
-A structured list of completed training programs and professional certifications:
+```text
+├── 💼 01_Internships/            # Industry Work Experience & Offer Letters
+├── ⚙️ 02_Industrial_Training/     # Core Technical Training Programs
+├── 🎓 03_Academic_Achievements/   # IIT Events & Institute Merits
+└── 📜 04_Technical_Courses/       # Professional Domain Certifications
 
-* **Simplilearn Certification**
-  * **File:** `SIMPLILEARN.pdf`
-  * **Description:** Professional training program completion certificate validating technical core competencies.
+💼 01. Internships
+🔹 CodTech IT Solutions
+Role: Java Programming Intern
 
-* **Cyber Cell Certification**
-  * **File:** `CYBERCELL.pdf`
-  * **Description:** Certification or training acknowledgment related to cybersecurity domains and awareness.
+Duration: July 2nd, 2025 – August 2nd, 2025 (4 Weeks)
 
-* **Training Completion (AGC)**
-  * **File:** `AGC25090238_Training_Completion.jpeg`
-  * **Description:** Formal verification of technical/industrial training completion.
+Credentials: CODTECH_OFFER.jpeg (Offer Letter) & CODTECH.jpeg (Completion Certificate)
 
-* **Athleka & Business Planning**
-  * **Files:** `ATHLEKA.jpeg` / `B PLAN.pdf`
-  * **Description:** Recognition and documentation related to hackathons, business planning, or extracurricular technical events.
+Links: 📄 View Certificate | 📥 Download
 
----
+🔹 InternPe
+Role: Web Development Intern
 
-## 💼 Internships & Industrial Experience
+Duration: July 8th, 2024 – August 4th, 2024 (4 Weeks)
 
-Documentation regarding industry exposure and practical work experience:
+Credential File: INTERNPE.jpeg
 
-* **CodTech IT Solutions**
-  * **Files:** `CODTECH_OFFER.jpeg` (Offer Letter) & `CODTECH.jpeg` (Completion Certificate)
-  * **Description:** Hands-on technical internship experience focusing on real-world project development.
+Links: 📄 View Certificate | 📥 Download
 
-* **Internpe**
-  * **File:** `INTERNPE.jpeg`
-  * **Description:** Internship completion certificate validating practical implementation of software engineering concepts.
+⚙️ 02. Industrial Training
+🔹 Acmegrade (In Association with Rendezvous IIT Delhi)
+Program: Industrial Training in Web Development
 
----
+Duration: September 9th, 2025 – October 9th, 2025
 
-## 🔍 How to Verify
+Credential ID: AGC25090238
 
-All documents are organized directly within the root directory of this repository. You can click on any specific file name in the file list above to view the high-resolution image or PDF format directly in your browser.
+Credential File: AGC25090238_Training Completion.jpeg
+
+Links: 📄 View Certificate | 📥 Download
+
+🎓 03. Academic & Event Achievements
+🔹 IIT Kharagpur (Kshitij 2023)
+Event: B Plan Finals (In collaboration with UNICEF, CEE, and SAYEN)
+
+Recognition: Certificate of Appreciation for outstanding performance in the finals
+
+Credential File: B PLAN.pdf
+
+Links: 📄 View Document | 📥 Download
+
+🔹 SKS Group of Institutions (Athleka 2K25)
+Event: Tug of War Event (Academic Year 2024-25)
+
+Duration: February 28th to March 2nd, 2025
+
+Credential File: ATHLEKA.jpeg
+
+Links: 📄 View Certificate | 📥 Download
+
+🔹 CyberCell (BCET)
+Event: CYBERVERSE 2K24 Annual Event
+
+Duration: January 27th – January 29th, 2024
+
+Credential File: CYBERCELL.pdf
+
+Links: 📄 View Document | 📥 Download
+
+📜 04. Technical & Professional Courses
+🔹 Simplilearn SkillUp Certification — Front End Development
+Course: Introduction to Front End Development
+
+Date Issued: May 15th, 2024
+
+Verification Code: 5234831
+
+Credential File: SIMPLILEARN.pdf
+
+Links: 📄 View Certificate | 📥 Download
+
+🔹 Simplilearn SkillUp Certification — Full-Stack
+Course: Full-Stack Development 101: What is Full-Stack Development
+
+Date Issued: May 15th, 2024
+
+Verification Code: 5244886
+
+Credential File: SIMPLILEARN.pdf (Combined / Secondary Archive)
+
+Links: 📄 View Certificate | 📥 Download
+
+🔍 Verification & Access Notes
+To view any document directly within the browser, click the View Certificate link corresponding to the item.
+
+To directly download the clean raw file to your local setup, use the provided Download link.
